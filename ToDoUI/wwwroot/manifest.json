@@ -1,0 +1,8 @@
+{
+    "short_name": "Todo",
+    "name": "ToDo by GE Digital",
+    "permissions": [
+        "http://*/",
+        "https://*/",
+      ]
+  }

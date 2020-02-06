@@ -1,0 +1,10 @@
+.DS_Store
+ToDoApi.Tests/bin/
+ToDoApi.Tests/obj/
+ToDoApi/.DS_Store
+ToDoApi/WeatherForecast.cs
+ToDoApi/bin/
+ToDoApi/obj/
+ToDoUI/bin/
+ToDoUI/node_modules/
+ToDoUI/obj/
